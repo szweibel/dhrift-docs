@@ -1,0 +1,10 @@
+site_name: DHRIFT Documentation
+theme:
+  name: material
+  # favicon: img/favicon.ico
+nav:
+ - Home: README.md
+ - About: about.md
+markdown_extensions:
+  - toc:
+      permalink: "#"
