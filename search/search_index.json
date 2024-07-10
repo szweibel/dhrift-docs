@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"TEST","text":"<p>This is a test.</p>"},{"location":"about/","title":"About","text":"<p>This is a simple example of a markdown file. You can use markdown to format your text.</p>"}]}
